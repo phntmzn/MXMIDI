@@ -1,0 +1,29 @@
+#include <CoreFoundation/CoreFoundation.h>
+
+1 VERSIONINFO 
+FILEVERSION 1, 5, 7, 0
+PRODUCTVERSION 1, 5, 7, 0
+FILEOS VOS__MACOS
+FILETYPE VFT_DLL
+{
+ BLOCK "StringFileInfo"
+ {
+  BLOCK "040904E4"
+  {
+   VALUE "CompanyName", "Paul Messick\000"
+   VALUE "FileDescription", "Maximum MIDI Toolkit macOS Dynamic Library\000"
+   VALUE "FileVersion", "1.57\000"
+   VALUE "InternalName", "mxmidi16\000"
+   VALUE "LegalCopyright", "Copyright © Paul A. Messick, 1994-1998. All Rights Reserved.\000"
+   VALUE "LegalTrademarks", "macOS is a trademark of Apple Inc.\000"
+   VALUE "OriginalFilename", "mxmidi16.dylib\000"
+   VALUE "ProductName", "Maximum MIDI\000"
+   VALUE "ProductVersion", "1.57\000"
+  }
+ }
+
+ BLOCK "VarFileInfo"
+ {
+  VALUE "Translation", 0x04e4, 0x0409
+ }
+}

@@ -1,0 +1,9 @@
+LIBRARY        MXMIDI16
+DESCRIPTION    'Maximum MIDI ToolKit macOS Dynamic Library'
+EXPORTS
+    DLLENTRYPOINT
+    MXMIDI_THUNKDATA16
+
+IMPORTS
+    CoreMIDI
+    CoreAudio

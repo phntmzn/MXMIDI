@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.paulmessick.mxmidi16</string>
+    
+    <key>CFBundleName</key>
+    <string>Maximum MIDI Toolkit</string>
+    
+    <key>CFBundleVersion</key>
+    <string>1.57</string>
+
+    <key>CFBundleShortVersionString</key>
+    <string>1.57</string>
+
+    <key>CFBundleExecutable</key>
+    <string>mxmidi16.dylib</string>
+
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+
+    <key>CFBundleSignature</key>
+    <string>MMTK</string>
+
+    <key>CFBundleGetInfoString</key>
+    <string>Maximum MIDI Toolkit macOS Dynamic Library, Version 1.57</string>
+
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © Paul A. Messick, 1994-1998. All Rights Reserved.</string>
+</dict>
+</plist>
